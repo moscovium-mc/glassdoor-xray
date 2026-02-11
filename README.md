@@ -1,4 +1,4 @@
-# Glassdoor X-Ray
+# Glassdoor Xray
 
 A Tampermonkey userscript that reveals hidden company reviews on Glassdoor by removing content locks and blur effects.
 
@@ -70,7 +70,7 @@ This is a purely cosmetic modification using CSS. No API calls, no data manipula
 ### Script not working
 
 - Verify your userscript manager is enabled
-- Check that Glassdoor X-Ray shows as "enabled" in Tampermonkey
+- Check that Glassdoor Xray shows as "enabled" in Tampermonkey
 - Refresh the page (Ctrl+F5 or Cmd+Shift+R)
 - Clear browser cache if issues persist
 
